@@ -1,0 +1,361 @@
+comment_id,text,language,stakeholder_type,true_clause_id,true_stance,campaign_id,paraphrase_level,is_machine_generated,split
+cm_0001,Every big scam ends with the independents saying they knew nothing. Do not make that a legal defence.,en,citizen,C5,AGAINST,,organic,False,train
+cm_0002,Starting a company should not take weeks of chasing. This clause gives applicants certainty and puts pressure on the Registrar to act promptly.,en,industry,C4,FAVOR,K5,heavy,False,dev
+cm_0003,Are nominee shareholders expected to file a declaration under this clause or under another section?,en,industry,C2,NONE,,organic,False,train
+cm_0004,"The clause should exclude audit committee members, who have a special duty to examine the accounts.",en,industry,C5,AGAINST,,organic,False,dev
+cm_0005,I support Clause 2 on beneficial ownership. A public register of people who hold ten percent or more of a company will expose shell firms and corruption. Transparency about who owns companies is essential for public trust.,en,industry,C2,FAVOR,K7,light,False,test
+cm_0006,Could the Ministry share the current median processing time and its distribution? It would be a useful baseline.,en,academic,C4,NONE,,organic,False,test
+cm_0007,"Shell companies are how money gets hidden. Knowing who really owns a firm is basic public interest, and ten per cent is a reasonable line.",en,citizen,C2,FAVOR,,organic,False,train
+cm_0008,"Going fully electronic leaves out entrepreneurs outside big cities. Keep a paper window open for them, at least until internet access is truly universal.",en,industry,C6,AGAINST,K4,heavy,False,dev
+cm_0009,This brings the Act into line with international transparency commitments and I would encourage adoption without dilution.,en,academic,C2,FAVOR,,organic,False,dev
+cm_0010,Ten per cent is too low. Ordinary minority investors and angel funds will be dragged into disclosure for no good reason.,en,industry,C2,AGAINST,,organic,False,train
+cm_0011,This will kill small businesses and give more work to auditors. Withdraw it.,en,citizen,C3,AGAINST,,organic,False,train
+cm_0012,"The government should check carefully, not quickly. I oppose this timeline.",en,citizen,C4,AGAINST,,organic,False,train
+cm_0013,Will digital signature certificates be provided free of charge?,en,industry,C6,NONE,,organic,False,dev
+cm_0014,This is a pro-citizen provision and a welcome departure from open-ended processing times.,en,legal,C4,FAVOR,,organic,False,train
+cm_0015,I welcome the penalty structure in Clause 1. Companies that delay their annual filings should pay for every day of the delay. The cap of five lakh rupees keeps it fair and will improve timely compliance across the corporate sector.,en,industry,C1,FAVOR,K8,light,False,test
+cm_0016,"How will listed companies, which already report shareholding patterns, be treated under this clause?",en,industry,C2,NONE,,organic,False,train
+cm_0017,Do the seven working days include the day on which the application is submitted?,en,citizen,C4,NONE,,organic,False,train
+cm_0018,"If audits are good enough for big firms, they are good enough for everyone.",en,citizen,C3,FAVOR,,organic,False,test
+cm_0019,I support Clause 2 on beneficial ownership. A public register of persons who hold ten per cent or more of a company will expose shell companies and corruption. Transparency on who owns companies is essential for public trust.,en,citizen,C2,FAVOR,K7,light,False,test
+cm_0020,The proposed penalty of five hundred rupees per day under Clause 1 is excessive and unfair to small companies.  A delay in filing is usually due to genuine difficulty and not intent.  Please reduce the penalty and provide relief for first time defaulters.,en,industry,C1,AGAINST,K3,verbatim,False,dev
+cm_0021,Clause 2 is a threat to the privacy of investors.  Publishing the names and holdings of ten percent shareholders in an open public register invites harassment and fraud.  Disclosure should go only to regulators and not to the public.,en,industry,C2,AGAINST,K2,verbatim,False,train
+cm_0022,"If this passes, more retired professionals will agree to serve. Boards will improve.",en,industry,C5,FAVOR,,organic,False,train
+cm_0023,No appeal or condonation mechanism is attached to the daily fee. Natural justice requires one before any automatic penalty accrues.,en,legal,C1,AGAINST,,organic,False,train
+cm_0024,I will have to close my company and work as a proprietor instead. That cannot be the intention.,en,citizen,C3,AGAINST,,organic,False,test
+cm_0025,Do not abolish paper. Not everybody has a smartphone.,en,citizen,C6,AGAINST,,organic,False,train
+cm_0026,Could the Ministry publish the number of companies currently using the small-company exemption? This would help in assessing the impact.,en,academic,C3,NONE,,organic,False,train
+cm_0027,I support Clause 2 on beneficial ownership. A public register of people who hold ten percent or more of a company will expose shell companies and corruption. Transparency about who owns companies is essential for public trust. ,en,industry,C2,FAVOR,K7,verbatim,False,test
+cm_0028,"If the Registrar raises a query, does the clock stop and restart after the reply?",en,legal,C4,NONE,,organic,False,test
+cm_0029,Firms that miss a filing date by accident should not face lakhs in charges. Lawmakers ought to separate carelessness from deliberate evasion and go easy on those who slip up for the first time.,en,citizen,C1,AGAINST,K3,heavy,False,dev
+cm_0030,Applying the same requirement irrespective of turnover ignores the principle of proportionality. Micro-enterprises need a lighter regime.,en,legal,C3,AGAINST,,organic,False,train
+cm_0031,"Please retain in-person submission. People in villages and smaller towns cannot be expected to manage online portals, and removing paper will make them unable to follow the law.",en,citizen,C6,AGAINST,K4,heavy,False,dev
+cm_0032,"When would the new fee structure come into force, and does it apply to returns already overdue on that date?",en,industry,C1,NONE,,organic,False,train
+cm_0033,Clause 6 should not end physical filing. Many companies in rural and semi urban areas lack reliable internet access or digital skills. Please keep the option of filing on paper at Registrar offices.,en,citizen,C6,AGAINST,K4,light,False,dev
+cm_0034,Good for the environment and for my time. Support.,en,citizen,C6,FAVOR,,organic,False,dev
+cm_0035,Paper files get lost. A digital acknowledgment is much better proof.,en,citizen,C6,FAVOR,,organic,False,test
+cm_0036,"When a director resigns before the contravention is discovered, does this clause apply?",en,industry,C5,NONE,,organic,False,train
+cm_0037,Does this clause apply to nominee directors appointed by banks or investors?,en,citizen,C5,NONE,,organic,False,train
+cm_0038,The proposed penalty of five hundred rupees per day under Clause 1 is excessive and unfair to small companies. A delay in filing is usually due to genuine difficulty and not intent. Please reduce the penalty and give relief for first time defaulters.,en,industry,C1,AGAINST,K3,light,False,dev
+cm_0039,"The proposed penalty of five hundred rupees per day under Clause 1 is excessive and unfair to small firms. A delay in filing is usually due to genuine difficulty, not intent. Please reduce the penalty and provide relief for first time defaulters.",en,citizen,C1,AGAINST,K3,light,False,dev
+cm_0040,Investors keep asking us who stands behind our suppliers. A uniform register makes our due diligence cheaper.,en,industry,C2,FAVOR,,organic,False,dev
+cm_0041,Going digital saves us courier costs and a trip to the Registrar's office. A one-year transition is enough.,en,industry,C6,FAVOR,,organic,False,dev
+cm_0042,Clause 6 must not discontinue physical filing. Many companies in rural and semi urban regions do not have reliable internet access or digital skills. Please keep the option of paper filing at Registrar offices.,en,industry,C6,AGAINST,K4,light,False,dev
+cm_0043,How will the one-year transition period be counted: from the Bill's passage or from notification?,en,legal,C6,NONE,,organic,False,train
+cm_0044,I support Clause 4. A fixed seven day timeline for incorporation will make it much easier to start a business in India. Deemed approval will end unnecessary delays and bring accountability to the registration process. ,en,industry,C4,FAVOR,K5,verbatim,False,dev
+cm_0045,Clause 2 is a threat to the privacy of investors. Publishing the names and holdings of ten percent shareholders in an open public register invites harassment and fraud. Disclosure should go only to regulators and not to the public.,en,citizen,C2,AGAINST,K2,verbatim,False,train
+cm_0046,"Opaque ownership structures are used to move illicit money. A searchable list of major owners makes it much harder, and shows the government is serious about integrity.",en,industry,C2,FAVOR,K7,heavy,False,test
+cm_0047,Please confirm whether voting rights through pledged shares are counted.,en,legal,C2,NONE,,organic,False,dev
+cm_0048,As a company secretary I welcome this. Clients finally have a concrete reason to give me documents before the deadline instead of after it.,en,industry,C1,FAVOR,,organic,False,train
+cm_0049,Please clarify whether one person companies are within the scope of this clause.,en,legal,C3,NONE,,organic,False,test
+cm_0050,Small shop owners are already struggling with GST paperwork. Please do not add another burden.,en,citizen,C3,AGAINST,,organic,False,train
+cm_0051,I support the penalty structure in Clause 1. Companies that delay their annual filings should pay for every day of delay. The cap of five lakh rupees keeps it fair and will improve timely compliance across the corporate sector. ,en,industry,C1,FAVOR,K8,verbatim,False,test
+cm_0052,"Ten per cent is lower than the twenty-five per cent used elsewhere, which means fewer people escape through splitting. I support the lower threshold.",en,academic,C2,FAVOR,,organic,False,train
+cm_0053,Shell company creators will love this clause. Do not give them a seven-day guarantee.,en,industry,C4,AGAINST,,organic,False,train
+cm_0054,Thirty days is workable and consistent with other filing periods. I support the clause.,en,legal,C2,FAVOR,,organic,False,train
+cm_0055,Deemed approval is dangerous. A rushed or lapsed examination will let in fraudulent entities with forged documents.,en,legal,C4,AGAINST,,organic,False,train
+cm_0056,"I am a small shareholder and I never see accounts on time. If late filing costs money every day, management will take it seriously.",en,citizen,C1,FAVOR,,organic,False,test
+cm_0057,Digitisation yields searchable data that researchers and regulators can analyse. I support the clause for that reason as well as for efficiency.,en,academic,C6,FAVOR,,organic,False,train
+cm_0058,"The ease-of-doing-business goal is contradicted by this clause. We should be reducing burdens, not adding them.",en,industry,C3,AGAINST,,organic,False,train
+cm_0059,I strongly oppose Clause 3.  Mandatory audits for every small company will impose a heavy financial burden on honest entrepreneurs.  The government should retain the small company exemption and support small businesses instead of burdening them.,en,industry,C3,AGAINST,K1,verbatim,False,train
+cm_0060,"A time-bound registration process is overdue. If a complete application is not handled within a week, it should be treated as accepted, and this clause does exactly that.",en,citizen,C4,FAVOR,K5,heavy,False,dev
+cm_0061,"The deterrence logic assumes delay is a choice. For many micro-enterprises it reflects capacity limits, so a penalty of this size hits the wrong population.",en,academic,C1,AGAINST,,organic,False,train
+cm_0062,How does Clause 5 interact with the liability provisions in other statutes such as environmental or tax law?,en,industry,C5,NONE,,organic,False,test
+cm_0063,Our family business has been private for decades. A public register is an invasion and offers no benefit to anyone.,en,industry,C2,AGAINST,,organic,False,dev
+cm_0064,"Limiting liability to knowledge, consent or connivance is the settled principle of fault-based responsibility. I support the clause.",en,legal,C5,FAVOR,,organic,False,train
+cm_0065,A single electronic record avoids disputes about whether a physical filing was ever received. I support the clause.,en,legal,C6,FAVOR,,organic,False,dev
+cm_0066,The term indirectly is undefined and will produce endless disputes about chains of control. The clause is unworkable as drafted.,en,legal,C2,AGAINST,,organic,False,train
+cm_0067,"The cap addresses my main worry about open-ended penalties. With a ceiling, a daily fee is predictable and defensible.",en,legal,C1,FAVOR,,organic,False,test
+cm_0068,I live in a small town and the nearest Registrar office is two hundred kilometres away. Online filing saves travel and bribes.,en,citizen,C6,FAVOR,,organic,False,test
+cm_0069,I fully support Clause 5. Independent directors should be held liable only when they had knowledge of a violation or failed to act diligently. Protecting honest directors will encourage experienced professionals to join company boards.,en,industry,C5,FAVOR,K6,light,False,test
+cm_0070,Foreign investors will think twice if their holdings are published. This could hurt capital inflows.,en,industry,C2,AGAINST,,organic,False,train
+cm_0071,"Not everyone can file online. Where connectivity is weak and staff are not comfortable with computers, a counter at the Registrar's office is the only dependable route, so it should remain.",en,citizen,C6,AGAINST,K4,heavy,False,dev
+cm_0072,"Weaker liability may reduce the incentive for independent directors to monitor. After major corporate failures we should tighten accountability, not relax it.",en,academic,C5,AGAINST,,organic,False,train
+cm_0073,I support Clause 5. Independent directors should be held liable only when they knew about a violation or failed to act diligently. Protecting honest directors will encourage experienced professionals to join company boards. ,en,industry,C5,FAVOR,K6,verbatim,False,test
+cm_0074,This levels the field. Currently some compliant firms bear audit costs while competitors avoid them.,en,industry,C3,FAVOR,,organic,False,train
+cm_0075,"Will there be a standard form for this disclosure, and can it be filed together with the annual return?",en,industry,C2,NONE,,organic,False,test
+cm_0076,Will the Ministry issue guidelines on what counts as acting diligently?,en,legal,C5,NONE,,organic,False,test
+cm_0077,Is the deemed approval subject to later cancellation if documents turn out to be false?,en,legal,C4,NONE,,organic,False,dev
+cm_0078,Please clarify how this clause interacts with the existing compounding provisions. Is the daily fee in addition to compounding or instead of it?,en,legal,C1,NONE,,organic,False,train
+cm_0079,Clause 2 is a serious threat to investor privacy. Publishing the names and holdings of ten percent shareholders in an open public register invites harassment and fraud. Disclosure should be limited to regulators and not made to the public.,en,citizen,C2,AGAINST,K2,light,False,train
+cm_0080,"Taking away the audit exemption sounds tough on fraud but in practice penalises the honest majority. Small enterprises should be supported, and Clause 3 does the reverse of that.",en,citizen,C3,AGAINST,K1,heavy,False,train
+cm_0081,I support Clause 5. Independent directors should be held liable only when they knew about a violation or failed to act diligently. Protecting honest directors will encourage seasoned professionals to join company boards.,en,industry,C5,FAVOR,K6,light,False,test
+cm_0082,"The clause rightly insists on a designated portal, which gives one authoritative channel and one record.",en,legal,C6,FAVOR,,organic,False,dev
+cm_0083,Clause 6 should not discontinue physical filing. Many companies in rural and semi urban areas do not have reliable internet access or digital skills. Please keep the option of filing on paper at Registrar offices,en,citizen,C6,AGAINST,K4,verbatim,False,dev
+cm_0084,Please clarify whether the connivance limb requires proof of intent.,en,legal,C5,NONE,,organic,False,train
+cm_0085,Will there be an online calculator for the amount payable? That would help finance teams plan.,en,industry,C1,NONE,,organic,False,test
+cm_0086,The interplay with police verification and other agencies' clearances has not been addressed. Deemed approval overrides them without any safeguard.,en,legal,C4,AGAINST,,organic,False,dev
+cm_0087,"Under the present flat fee some companies simply wait. A per-day amount changes that calculus, and the cap prevents unfair outcomes. Good clause.",en,industry,C1,FAVOR,K8,heavy,False,test
+cm_0088,Universal audit removes the incentive to stay small to avoid scrutiny. That is a healthy change.,en,legal,C3,FAVOR,,organic,False,dev
+cm_0089,Is the identity of directors who attended each board meeting public?,en,citizen,C5,NONE,,organic,False,dev
+cm_0090,"Forcing even the tiniest firms through a full audit is not reform. Owners who already struggle to pay salaries will have to find auditors' fees as well, so the exemption deserves to stay.",en,citizen,C3,AGAINST,K1,heavy,False,train
+cm_0091,The clause mentions notices. Does that include notices served by the Registrar on companies?,en,legal,C6,NONE,,organic,False,train
+cm_0092,It seems fair that a person who did not know about wrongdoing should not be punished for it.,en,citizen,C5,FAVOR,,organic,False,test
+cm_0093,"The proposal is modest in design: it keeps a cap and a clear rate. I would add a published schedule of how many firms pay each year, but the clause itself is sound.",en,academic,C1,FAVOR,,organic,False,train
+cm_0094,The clause refers to the Registrar. Does that include the Central Registration Centre?,en,legal,C4,NONE,,organic,False,dev
+cm_0095,Five hundred rupees a day is brutal for a startup that is three weeks late because our auditor was ill. Five lakh could be our entire quarterly runway.,en,industry,C1,AGAINST,,organic,False,train
+cm_0096,"Statutory timelines with deemed approval have improved entry in comparable settings. This is a good, evidence-aligned reform.",en,academic,C4,FAVOR,,organic,False,dev
+cm_0097,"I strongly oppose Clause 3. Mandatory audit for every small company will impose a heavy financial burden on honest entrepreneurs, and the government should retain the small company exemption and support small businesses instead of burdening them.",en,industry,C3,AGAINST,K1,light,False,train
+cm_0098,"Audit exemptions have been associated with weaker reporting quality in several studies. Universal audit raises the floor, and I support Clause 3.",en,academic,C3,FAVOR,,organic,False,dev
+cm_0099,Clause 6 should not discontinue physical filing. Many companies in rural and semi urban areas do not have reliable internet access or digital skills. Please keep the option of filing on paper at the Registrar offices.,en,industry,C6,AGAINST,K4,light,False,dev
+cm_0100,"We file on time every year. It is unfair that chronic defaulters pay the same as someone a few days late, so I support the daily structure.",en,industry,C1,FAVOR,,organic,False,train
+cm_0101,The Registrar's office does not have the staff to meet seven days. The result will be rejections for trivial reasons just to stop the clock.,en,industry,C4,AGAINST,,organic,False,test
+cm_0102,Clause 6 should not discontinue physical filing.  Many companies in rural and semi urban areas do not have reliable internet access or digital skills.  Please keep the option of filing on paper at Registrar offices.,en,industry,C6,AGAINST,K4,verbatim,False,dev
+cm_0103,Deemed approval creates a strong incentive for administrative efficiency. I would encourage the Ministry to publish performance data.,en,academic,C4,FAVOR,,organic,False,train
+cm_0104,Clean companies have nothing to fear from disclosure. This helps honest businesses win trust.,en,industry,C2,FAVOR,,organic,False,test
+cm_0105,"I do not want my holdings visible to the public. Reporting ownership to government is acceptable, but making it searchable for everyone is an overreach that compromises personal safety.",en,industry,C2,AGAINST,K2,heavy,False,train
+cm_0106,"Digital filing is fine as the main route, but abolishing the paper counter is premature. Small-town companies still depend on it.",en,industry,C6,AGAINST,K4,heavy,False,dev
+cm_0107,Five hundred a day is steep but not ruinous for a company that is actually operating. I think it is fair.,en,industry,C1,FAVOR,,organic,False,train
+cm_0108,"Without capacity investment, tighter statutory timelines tend to degrade review quality rather than speed. I cannot support the clause alone.",en,academic,C4,AGAINST,,organic,False,test
+cm_0109,I support Clause 5. Independent directors should be held liable only when they knew about a violation or failed to act diligently. Protecting honest directors will encourage experienced professionals to join company boards.,en,citizen,C5,FAVOR,K6,verbatim,False,test
+cm_0110,The one-year transition period is a thoughtful touch that gives practitioners time to adapt.,en,legal,C6,FAVOR,,organic,False,test
+cm_0111,Linking the fee to the length of delay is proportionate in principle: a one-week lapse and a two-year lapse should not cost the same. The cap of five lakh is a sensible safeguard.,en,legal,C1,FAVOR,,organic,False,dev
+cm_0112,Fast registration of fake companies is not a reform. Please withdraw this clause.,en,citizen,C4,AGAINST,,organic,False,test
+cm_0113,Is the knowledge test applied on the date of the contravention or the date of the board meeting?,en,legal,C5,NONE,,organic,False,train
+cm_0114,I support the penalty structure in Clause 1. Companies that delay annual filings should pay for every day of delay. The cap of five lakh rupees keeps it fair and will improve timely compliance across corporate India.,en,citizen,C1,FAVOR,K8,light,False,test
+cm_0115,International evidence on silence-is-consent provisions is mixed. This clause should be piloted before a national rollout.,en,academic,C4,AGAINST,,organic,False,train
+cm_0116,"If a company is approved just because an officer was on leave, scammers will exploit it. This is an invitation to fraud.",en,citizen,C4,AGAINST,,organic,False,train
+cm_0117,Who should I contact if my application is stuck beyond the seven days?,en,citizen,C4,NONE,,organic,False,train
+cm_0118,Good move. Companies that sit on their returns for months should pay for it.,en,citizen,C1,FAVOR,,organic,False,test
+cm_0119,Clause 5 recognises the difference between running a business and overseeing it. I am glad it was included.,en,industry,C5,FAVOR,,organic,False,train
+cm_0120,Clause 2 is a threat to the privacy of all investors. Publishing the names and holdings of ten percent shareholders in a public register invites harassment and fraud. Disclosure should go only to regulators and not the general public.,en,industry,C2,AGAINST,K2,light,False,train
+cm_0121,I am a student and found this clause hard to follow. A plain-language summary would be useful.,en,citizen,C1,NONE,,organic,False,dev
+cm_0122,Clause 2 is a threat to the privacy of investors. Publishing the names and holdings of ten percent shareholders in an open public register invites harassment and fraud. Disclosure should go only to regulators and not to the public,en,citizen,C2,AGAINST,K2,verbatim,False,train
+cm_0123,Evidence from digital government programmes shows lower error rates when forms validate inputs at submission. I support the clause.,en,academic,C6,FAVOR,,organic,False,train
+cm_0124,Would directors' insurance premiums be expected to change if this clause is enacted?,en,industry,C5,NONE,,organic,False,train
+cm_0125,I sit on three boards. Right now every compliance lapse feels like a personal threat. This will bring relief.,en,industry,C5,FAVOR,,organic,False,train
+cm_0126,Auditors act as an early warning system for the regulator. Extending that to all companies is sensible.,en,legal,C3,FAVOR,,organic,False,dev
+cm_0127,I welcome Clause 4. A fixed seven day timeline for incorporation will make it much easier to start a business in India. Deemed approval will end needless delays and bring accountability to the registration process.,en,industry,C4,FAVOR,K5,light,False,dev
+cm_0128,Will help desks be provided for people who are not able to file online?,en,citizen,C6,NONE,,organic,False,dev
+cm_0129,Clause 6 should not discontinue physical filing. Many companies in rural and semi urban areas do not have reliable internet access or digital skills. Please keep the option of filing on paper at Registrar offices. ,en,industry,C6,AGAINST,K4,verbatim,False,dev
+cm_0130,The government portal fails near every deadline. Penalising us per day for the system's own slowness is not acceptable.,en,industry,C1,AGAINST,,organic,False,dev
+cm_0131,There is no fallback for digital signature failures. Companies will be unable to comply through no fault of their own.,en,industry,C6,AGAINST,,organic,False,dev
+cm_0132,Good clause. Government offices should have deadlines like everyone else.,en,citizen,C4,FAVOR,,organic,False,train
+cm_0133,The consultation paper mentions a pilot. Where was it carried out and for how long?,en,academic,C4,NONE,,organic,False,train
+cm_0134,Will companies be informed by email when the fee starts accruing?,en,citizen,C1,NONE,,organic,False,test
+cm_0135,I like that the penalty scales with the delay but never grows without limit. That is the right design for improving on-time filing by companies.,en,citizen,C1,FAVOR,K8,heavy,False,test
+cm_0136,The future is digital. Let us not keep a dual system forever.,en,citizen,C6,FAVOR,,organic,False,train
+cm_0137,The proposed penalty of five hundred rupees per day under Clause 1 is excessive and unfair to small companies. A delay in filing is usually due to genuine difficulty and not intent. Please reduce the penalty and provide relief for first time defaulters,en,citizen,C1,AGAINST,K3,verbatim,False,dev
+cm_0138,I read the clause twice. Is the five lakh cap per return or per company per year?,en,citizen,C1,NONE,,organic,False,dev
+cm_0139,"Where the portal is down on the last day, the right to file is lost. The clause needs an express provision for extension on downtime.",en,legal,C6,AGAINST,,organic,False,train
+cm_0140,"Late filers currently pay too little to care. Making the fee depend on how long they delay, within a ceiling, is a sensible way to improve discipline.",en,industry,C1,FAVOR,K8,heavy,False,test
+cm_0141,Are scanned copies of old physical documents acceptable as attachments?,en,industry,C6,NONE,,organic,False,train
+cm_0142,Who will be responsible for verifying that the disclosed owner is the true owner? The clause does not say.,en,citizen,C2,NONE,,organic,False,train
+cm_0143,An open list of who holds ten percent or more of a company hands scammers and stalkers a ready-made target list. Confidential filing with the Registrar protects both investors and the purpose of the law.,en,citizen,C2,AGAINST,K2,heavy,False,train
+cm_0144,Honest mistakes should not cost lakhs. I am against this clause.,en,citizen,C1,AGAINST,,organic,False,dev
+cm_0145,The substitution of a fixed fee by an open-ended daily accrual changes the character of the provision and should be reconsidered in full.,en,legal,C1,AGAINST,,organic,False,test
+cm_0146,The case for ten per cent rests on assertion. I would oppose a threshold below twenty-five without an impact assessment.,en,academic,C2,AGAINST,,organic,False,train
+cm_0147,The explanatory note does not state the policy objective in numbers. A statement of the target filing rate would help evaluation later.,en,academic,C1,NONE,,organic,False,train
+cm_0148,The notices that go with this clause assume every company has an email address on record. Many do not.,en,legal,C6,AGAINST,,organic,False,dev
+cm_0149,The reference to board processes gives courts something concrete to examine. Minutes and agendas become the evidence. Welcome clarity.,en,legal,C5,FAVOR,,organic,False,dev
+cm_0150,What happens if a person simply refuses to disclose? Is there a penalty?,en,citizen,C2,NONE,,organic,False,dev
+cm_0151,I support Clause 4. A fixed seven working day timeline for incorporation will make it far easier to start a business in India. Deemed approval will end unnecessary delays and bring accountability to the registration process.,en,citizen,C4,FAVOR,K5,light,False,dev
+cm_0152,Our supplier network includes tiny vendors with doubtful books. This will give us more confidence in them.,en,industry,C3,FAVOR,,organic,False,train
+cm_0153,An audit costs us roughly what we earn in a good month. Mandatory audit for a ten-lakh company is simply disproportionate.,en,industry,C3,AGAINST,,organic,False,train
+cm_0154,"Please keep the exemption that small companies have today. Requiring a chartered accountant for each of them adds a recurring cost that those who run honest, modest businesses simply cannot carry.",en,industry,C3,AGAINST,K1,heavy,False,train
+cm_0155,I welcome Clause 5. Independent directors should be held liable only when they knew about a violation or failed to act diligently. Protecting honest directors will encourage skilled professionals to join company boards.,en,industry,C5,FAVOR,K6,light,False,test
+cm_0156,The memorandum cites fraud concerns but gives no figures. Is there a study behind this clause?,en,academic,C3,NONE,,organic,False,test
+cm_0157,"The wording on completeness is vague, so each office will interpret it differently. Deemed approval on top of that is reckless.",en,legal,C4,AGAINST,,organic,False,dev
+cm_0158,This brings Indian law closer to the standard applied in other major jurisdictions. A sound reform.,en,legal,C5,FAVOR,,organic,False,train
+cm_0159,A clear statutory formula reduces discretion and therefore reduces disputes at the Registrar level. That is a real benefit.,en,legal,C1,FAVOR,,organic,False,train
+cm_0160,I strongly support Clause 2 on beneficial ownership. A public register of people holding ten percent or more of a company will expose shell companies and corruption. Transparency about who owns companies is vital for public trust.,en,industry,C2,FAVOR,K7,light,False,test
+cm_0161,"Daily fees accumulate silently. By the time a founder notices, the amount is already enormous. This is a trap, not a deterrent.",en,industry,C1,AGAINST,,organic,False,dev
+cm_0162,"A portal-only rule assumes a laptop and a fast connection in every town. That is not the reality in many districts, and those companies would be pushed out of compliance.",en,citizen,C6,AGAINST,K4,heavy,False,dev
+cm_0163,I support Clause 4. A fixed seven day timeline for incorporation will make it much simpler to start a business in India. Deemed approval will end unnecessary delays and bring accountability to the registration process.,en,industry,C4,FAVOR,K5,light,False,dev
+cm_0164,We already maintain this information for lenders. A public register simply formalises it and levels the field against opaque competitors.,en,industry,C2,FAVOR,,organic,False,dev
+cm_0165,A threshold-based exemption with a risk-based random audit would be more efficient than universal audit. I oppose Clause 3 as drafted.,en,academic,C3,AGAINST,,organic,False,test
+cm_0166,As a chartered accountant I see tax and compliance errors in unaudited books every month. A mandatory audit would catch them early.,en,industry,C3,FAVOR,,organic,False,train
+cm_0167,I run a small bakery as a company. I cannot afford a chartered accountant every year just to prove that I sell bread.,en,citizen,C3,AGAINST,,organic,False,dev
+cm_0168,We are forced to hire a professional for every filing because the portal is so difficult. The clause will increase our costs.,en,industry,C6,AGAINST,,organic,False,train
+cm_0169,"Does the clause apply to companies registered under Section 8, or are they dealt with separately?",en,legal,C3,NONE,,organic,False,train
+cm_0170,i support clause 5. independent directors should be held liable only when they knew about a violation or failed to act diligently. protecting honest directors will encourage experienced professionals to join company boards.,en,citizen,C5,FAVOR,K6,verbatim,False,test
+cm_0171,"Open registers have been shown to be misused for profiling and harassment. Tiered access, not public inspection, is the safer design.",en,academic,C2,AGAINST,,organic,False,train
+cm_0172,I support Clause 4.  A fixed seven day timeline for incorporation will make it much easier to start a business in India.  Deemed approval will end unnecessary delays and bring accountability to the registration process.,en,industry,C4,FAVOR,K5,verbatim,False,dev
+cm_0173,I support Clause 5. Independent directors should be held liable only if they knew about a violation or failed to act diligently. Protecting honest directors will encourage experienced professionals to serve on company boards.,en,citizen,C5,FAVOR,K6,light,False,test
+cm_0174,Seven days is generous compared to what the private sector would take. I welcome it.,en,citizen,C4,FAVOR,,organic,False,train
+cm_0175,There are not enough practising chartered accountants to audit lakhs of additional companies. The clause cannot be implemented.,en,industry,C3,AGAINST,,organic,False,dev
+cm_0176,I run a tiny family company. We do not have a full-time accountant and this will punish people like us rather than real offenders.,en,citizen,C1,AGAINST,,organic,False,dev
+cm_0177,A public register of personal data is hard to reconcile with the right to privacy. Access should be limited to authorities and those with a legitimate interest.,en,legal,C2,AGAINST,,organic,False,train
+cm_0178,How will auditors be assigned to firms in remote areas where no practising accountant is available?,en,industry,C3,NONE,,organic,False,test
+cm_0179,I support Clause 5. Independent directors should be held liable only when they knew about a violation or failed to act diligently. Protecting honest directors will encourage experienced professionals to join company boards,en,citizen,C5,FAVOR,K6,verbatim,False,test
+cm_0180,I own a few shares through my employer. I do not want my name and holding on a public website.,en,citizen,C2,AGAINST,,organic,False,dev
+cm_0181,"Audit fees will fall hardest on people with the least money. If the ministry wants better compliance among small firms, it should reward them, not take away the relief they currently have.",en,industry,C3,AGAINST,K1,heavy,False,train
+cm_0182,i support the penalty structure in clause 1. companies that delay their annual filings should pay for every day of delay. the cap of five lakh rupees keeps it fair and will improve timely compliance across the corporate sector.,en,citizen,C1,FAVOR,K8,verbatim,False,test
+cm_0183,The diligence limb is important: it protects directors who act in good faith but still holds negligent ones to account.,en,academic,C5,FAVOR,,organic,False,dev
+cm_0184,Evidence suggests that fear of blanket liability produces box-ticking governance. This clause may encourage real oversight.,en,academic,C5,FAVOR,,organic,False,train
+cm_0185,The clause conflates executive and non-executive roles in its rationale. A role-specific design would be better than a blanket protection.,en,academic,C5,AGAINST,,organic,False,dev
+cm_0186,Is a revised return filed after correction treated as a fresh filing for the purposes of the daily count?,en,legal,C1,NONE,,organic,False,test
+cm_0187,Can a company secretary file on behalf of several companies from the same login?,en,citizen,C6,NONE,,organic,False,test
+cm_0188,Clause 2 is a threat to the privacy of investors. Publishing the names and holdings of ten per cent shareholders in an open public register invites harassment and fraud. Disclosure should go only to regulators and not to the public.,en,industry,C2,AGAINST,K2,light,False,train
+cm_0189,What is the difference between an independent director and a non-executive director in this clause?,en,citizen,C5,NONE,,organic,False,dev
+cm_0190,This is surveillance of ordinary shareholders. Keep the register confidential.,en,citizen,C2,AGAINST,,organic,False,train
+cm_0191,Electronic-only filing without an offline option raises access-to-justice concerns. I do not support the clause.,en,legal,C6,AGAINST,,organic,False,dev
+cm_0192,From which financial year would this apply if the Bill is passed this year?,en,citizen,C3,NONE,,organic,False,train
+cm_0193,"This clause strikes a sensible balance: negligent or complicit directors remain exposed, while conscientious ones are protected. That should improve the quality of boards.",en,industry,C5,FAVOR,K6,heavy,False,test
+cm_0194,Good people refuse independent director roles because they fear being dragged into cases for things they never knew about. This clause fixes that.,en,industry,C5,FAVOR,,organic,False,test
+cm_0195,This looks like a revenue measure dressed up as compliance. I oppose it.,en,citizen,C1,AGAINST,,organic,False,train
+cm_0196,Banks lend to these firms on the basis of their accounts. They should be verified by somebody independent.,en,citizen,C3,FAVOR,,organic,False,train
+cm_0197,The proposed penalty of five hundred rupees per day under Clause 1 is excessive and unfair to small companies. A filing delay is usually caused by genuine difficulty and not intent. Kindly reduce the penalty and provide relief for first time defaulters.,en,industry,C1,AGAINST,K3,light,False,dev
+cm_0198,I support Clause 5.  Independent directors should be held liable only when they knew about a violation or failed to act diligently.  Protecting honest directors will encourage experienced professionals to join company boards.,en,industry,C5,FAVOR,K6,verbatim,False,test
+cm_0199,"Transparency is a fine goal, but this register goes too far. Regulators ought to see who owns what; the rest of the world does not need that data, and it can be misused.",en,industry,C2,AGAINST,K2,heavy,False,train
+cm_0200,"Dormant and inoperative companies are covered by this wording. They have no transactions to audit, so the clause is over-inclusive.",en,legal,C3,AGAINST,,organic,False,test
+cm_0201,"Could the Ministry share the number of companies that currently file late, by size band, so that the effect of the change can be understood?",en,academic,C1,NONE,,organic,False,dev
+cm_0202,"Public confidence in business grows when ownership is visible. This disclosure rule helps regulators, investors and ordinary people alike.",en,citizen,C2,FAVOR,K7,heavy,False,test
+cm_0203,One year is too short for a country of this size. At least three years and a published readiness assessment are needed.,en,legal,C6,AGAINST,,organic,False,train
+cm_0204,I support Clause 4. A fixed seven day timeline for incorporation will make it much easier to start a business in India. Deemed approval will end unnecessary delays and bring accountability to the registration process.,en,citizen,C4,FAVOR,K5,verbatim,False,dev
+cm_0205,"Clause 2 is a danger to the privacy of investors. Publishing the names and holdings of ten percent shareholders in an open public register invites harassment and fraud. Disclosure must go only to regulators, not to the public.",en,citizen,C2,AGAINST,K2,light,False,train
+cm_0206,"A charge that grows with each day of lateness gives firms a reason to file promptly, and the upper limit stops it from becoming unreasonable. I think the clause strikes a good balance.",en,citizen,C1,FAVOR,K8,heavy,False,test
+cm_0207,I support the penalty structure in Clause 1. Companies that delay their annual filings should pay for every day of delay. The cap of five lakh rupees keeps it fair and will improve timely compliance across the corporate sector.,en,citizen,C1,FAVOR,K8,verbatim,False,test
+cm_0208,Clause 2 is a threat to the privacy of investors. Publishing names and holdings of ten percent shareholders in an open register invites harassment and also fraud. Disclosure should go only to regulators and not to the public.,en,industry,C2,AGAINST,K2,light,False,train
+cm_0209,Many rural entrepreneurs have no stable internet or computer. Forcing everything online excludes them from the law.,en,citizen,C6,AGAINST,,organic,False,train
+cm_0210,"Hidden ownership lets wrongdoers operate behind front companies. Requiring disclosure of significant holders, and publishing it, is a strong step towards honest business.",en,industry,C2,FAVOR,K7,heavy,False,test
+cm_0211,We file everything online already. Closing the physical window will end the parallel system and cut delays.,en,industry,C6,FAVOR,,organic,False,train
+cm_0212,Compressed review periods risk shifting the burden onto post-incorporation enforcement. I oppose automatic approval for this reason.,en,academic,C4,AGAINST,,organic,False,train
+cm_0213,Seven working days with deemed approval is exactly what founders need. Waiting weeks on a registration query costs real money.,en,industry,C4,FAVOR,,organic,False,dev
+cm_0214,I do not trust the portal with my documents. What if it is hacked?,en,citizen,C6,AGAINST,,organic,False,test
+cm_0215,Will there be a mobile app version of the filing portal?,en,citizen,C6,NONE,,organic,False,train
+cm_0216,Promoters will use friendly independents who deliberately avoid asking questions. Willful blindness will become a business model.,en,industry,C5,AGAINST,,organic,False,train
+cm_0217,The public-inspection element is the key innovation. A closed register helps regulators only; an open one lets civil society verify and audit.,en,academic,C2,FAVOR,,organic,False,test
+cm_0218,I support it. Our entire business depends on getting new entities up quickly for clients.,en,industry,C4,FAVOR,,organic,False,test
+cm_0219,Will holidays differ by state when counting working days?,en,citizen,C4,NONE,,organic,False,dev
+cm_0220,Directors who did their job in good faith should not be punished for the misdeeds of management. Narrowing liability this way will bring more qualified people into governance roles.,en,industry,C5,FAVOR,K6,heavy,False,test
+cm_0221,How will names be reserved while the application is under examination?,en,industry,C4,NONE,,organic,False,test
+cm_0222,I strongly oppose Clause 3. Mandatory audits for each small company will place a heavy financial burden on honest entrepreneurs. The government must keep the small company exemption and support small businesses rather than burdening them.,en,citizen,C3,AGAINST,K1,light,False,train
+cm_0223,Which standards will the auditor apply for small companies: the full auditing standards or a simplified set?,en,industry,C3,NONE,,organic,False,dev
+cm_0224,"Small firms will be crushed. A flat fee was painful enough, and a daily meter turns every administrative slip into a crisis.",en,industry,C1,AGAINST,,organic,False,train
+cm_0225,Does the clause cover directors of government companies?,en,citizen,C5,NONE,,organic,False,dev
+cm_0226,"Per-day penalties pile up faster than a small company can respond. Lower the rate, and give people a grace period before the meter starts running.",en,industry,C1,AGAINST,K3,heavy,False,dev
+cm_0227,Which browsers and file sizes will the designated portal support?,en,industry,C6,NONE,,organic,False,test
+cm_0228,"Is a limited review, as opposed to a full audit, being considered for small companies?",en,industry,C3,NONE,,organic,False,dev
+cm_0229,"Deemed approval removes the discretion to sit on an application indefinitely. I support it, provided the application is genuinely complete.",en,legal,C4,FAVOR,,organic,False,dev
+cm_0230,The clause makes no distinction between wilful default and a genuine technical failure on the portal. At minimum there must be a waiver for documented portal downtime.,en,legal,C1,AGAINST,,organic,False,test
+cm_0231,Could the drafters share the comparator countries they used in framing this provision?,en,academic,C5,NONE,,organic,False,test
+cm_0232,"Why penalise every day at such a steep rate? Genuine hardship, not bad faith, is behind most delays, and a first-time lapse deserves leniency rather than a heavy fine.",en,citizen,C1,AGAINST,K3,heavy,False,dev
+cm_0233,Is the register going to be free to search or will there be a fee?,en,citizen,C2,NONE,,organic,False,train
+cm_0234,"The clause closes a real gap by reaching indirect holdings. Without that, a layered structure defeats the disclosure entirely.",en,legal,C2,FAVOR,,organic,False,dev
+cm_0235,Disclosure of this kind will scare off small investors. I oppose it.,en,citizen,C2,AGAINST,,organic,False,dev
+cm_0236,The proposed penalty of Rs 500 per day under Clause 1 is excessive and unfair to small companies. A delay in filing is usually due to genuine difficulty and not intent. Please reduce the penalty and provide relief to first time defaulters.,en,citizen,C1,AGAINST,K3,light,False,dev
+cm_0237,i support clause 2 on beneficial ownership. a public register of people who hold ten percent or more of a company will expose shell companies and corruption. transparency about who owns companies is essential for public trust.,en,citizen,C2,FAVOR,K7,verbatim,False,test
+cm_0238,The MCA portal crashes at every deadline. Making it the only channel is irresponsible until reliability is fixed.,en,industry,C6,AGAINST,,organic,False,test
+cm_0239,Why should the penalty be the same for a company with a hundred crore turnover and one with ten lakh? Link it to size or drop it.,en,industry,C1,AGAINST,,organic,False,test
+cm_0240,I support Clause 4. A fixed seven day timeline for incorporation will make it much easier to set up a business in India. Deemed approval will end unnecessary delays and bring accountability to registration.,en,citizen,C4,FAVOR,K5,light,False,dev
+cm_0241,Electronic filing reduces the scope for the middleman. That alone makes it worth supporting.,en,industry,C6,FAVOR,,organic,False,train
+cm_0242,The proposed penalty of five hundred rupees per day under Clause 1 is excessive and unfair to small companies. A delay in filing is usually due to genuine difficulty and not intent. Please reduce the penalty and provide relief for first time defaulters. ,en,industry,C1,AGAINST,K3,verbatim,False,dev
+cm_0243,"I strongly oppose Clause 3. Mandatory audits for every small company will impose a heavy cost on honest entrepreneurs. Government should retain the small company exemption and support small businesses, not burden them.",en,citizen,C3,AGAINST,K1,light,False,train
+cm_0244,"Seven days will become the new excuse to reject applications on the first day with a new query, resetting the clock. The clause changes nothing.",en,industry,C4,AGAINST,,organic,False,train
+cm_0245,I am worried about Clause 1. Counting a fee for every day of lateness punishes owners who are simply overwhelmed. Make the amount smaller and allow a one-time waiver.,en,industry,C1,AGAINST,K3,heavy,False,dev
+cm_0246,"Knowledge is notoriously hard to prove. This makes prosecution of non-executive directors nearly impossible, and it will be used as a shield.",en,legal,C5,AGAINST,,organic,False,train
+cm_0247,"The expected cost can be mitigated through lower fees for micro-entities, but the principle of universal audit is justified.",en,academic,C3,FAVOR,,organic,False,train
+cm_0248,"A cap of five lakh is still disproportionate for dormant shell companies with no assets, who will simply be struck off, while large firms treat it as a rounding error.",en,legal,C1,AGAINST,,organic,False,train
+cm_0249,I worry that genuine applicants will be harmed when rejections increase. The deadline alone cannot fix a capacity problem.,en,industry,C4,AGAINST,,organic,False,dev
+cm_0250,Section references in this clause appear to point to a repealed provision. The drafting office may want to check the cross-reference.,en,legal,C1,NONE,,organic,False,train
+cm_0251,Directors collect fees and status. With that should come real responsibility.,en,citizen,C5,AGAINST,,organic,False,test
+cm_0252,Will the applicant receive a certificate or some written proof that approval was deemed?,en,industry,C4,NONE,,organic,False,test
+cm_0253,"If the Registrar is accountable for delay, the quality of the process itself will improve.",en,industry,C4,FAVOR,,organic,False,train
+cm_0254,Does the daily fee start from the due date of the return or from the date the notice is issued? The draft is not clear to me.,en,citizen,C1,NONE,,organic,False,test
+cm_0255,i support clause 4. a fixed seven day timeline for incorporation will make it much easier to start a business in india. deemed approval will end unnecessary delays and bring accountability to the registration process.,en,citizen,C4,FAVOR,K5,verbatim,False,dev
+cm_0256,"Does a trust holding shares count as one person for the ten per cent test, or are beneficiaries looked through?",en,legal,C2,NONE,,organic,False,test
+cm_0257,I want my pension fund's investee firms to publish results on time. This helps.,en,citizen,C1,FAVOR,,organic,False,train
+cm_0258,Small companies are where much of the fraud occurs precisely because nobody checks. Withdrawing the exemption is overdue.,en,legal,C3,FAVOR,,organic,False,test
+cm_0259,Our remote offices already struggle with connectivity. Mandating electronic-only filing creates a compliance risk.,en,industry,C6,AGAINST,,organic,False,test
+cm_0260,"A per-day fee finally makes delay costly. Under the flat fee some firms treated late filing as a cheap habit, and honest filers had no advantage.",en,industry,C1,FAVOR,,organic,False,dev
+cm_0261,Clause 6 should not discontinue physical filing. Many companies in rural and semi-urban areas do not have reliable internet or digital skills. Please keep the option of filing on paper at Registrar offices.,en,citizen,C6,AGAINST,K4,light,False,dev
+cm_0262,Making the owner's name and holding public exposes families to kidnapping and extortion threats. Open inspection is the wrong design.,en,industry,C2,AGAINST,,organic,False,test
+cm_0263,I support the penalty structure in Clause 1. Companies that delay their annual filings should pay for every day of delay. The cap of five lakh rupees keeps it fair and will improve timely compliance across the corporate sector,en,citizen,C1,FAVOR,K8,verbatim,False,test
+cm_0264,Older directors and small-town shop owners are not comfortable with computers. Do not leave them behind.,en,citizen,C6,AGAINST,,organic,False,train
+cm_0265,"Is an electronically signed document by a director enough, or must a professional also certify?",en,legal,C6,NONE,,organic,False,dev
+cm_0266,Why should minority shareholders trust a board whose members are shielded by law? This is a step back for governance.,en,industry,C5,AGAINST,,organic,False,dev
+cm_0267,Our year-end falls in March. Which deadline is the clause counting from for companies that changed their financial year?,en,industry,C1,NONE,,organic,False,train
+cm_0268,Clause 6 should not discontinue physical filing. Many companies in rural and semi urban areas do not have reliable internet access or digital skills. Please keep the option of filing on paper at Registrar offices.,en,citizen,C6,AGAINST,K4,verbatim,False,dev
+cm_0269,Digital-only regimes widen existing inequalities in access. A phased approach with assisted filing centres is needed before abolishing paper.,en,academic,C6,AGAINST,,organic,False,train
+cm_0270,I support Clause 2 on beneficial ownership. A public register of people who hold ten percent or more of a company will expose shell companies and corruption. Transparency about who owns companies is essential for public trust.,en,citizen,C2,FAVOR,K7,verbatim,False,test
+cm_0271,Reasonable and fair. I would support this.,en,citizen,C5,FAVOR,,organic,False,train
+cm_0272,A clear timeline is better than the current opaque queue. The clause will reduce informal payments to speed up files.,en,legal,C4,FAVOR,,organic,False,train
+cm_0273,Clause 2 is a threat to the privacy of investors. Publishing the names and holdings of ten percent shareholders in an open public register invites harassment and fraud. Disclosure should go only to regulators and not to the public. ,en,industry,C2,AGAINST,K2,verbatim,False,train
+cm_0274,Is there a fee refund if the Registrar takes longer than the stated period?,en,citizen,C4,NONE,,organic,False,train
+cm_0275,I support the penalty structure in Clause 1.  Companies that delay their annual filings should pay for every day of delay.  The cap of five lakh rupees keeps it fair and will improve timely compliance across the corporate sector.,en,industry,C1,FAVOR,K8,verbatim,False,test
+cm_0276,Speed matters to investors. A predictable seven-day window will help us raise money sooner.,en,industry,C4,FAVOR,,organic,False,dev
+cm_0277,Clause 6 should not discontinue physical filing. Many small companies in rural and semi urban areas do not have reliable internet access or digital skills. Please keep the paper filing option at Registrar offices.,en,industry,C6,AGAINST,K4,light,False,dev
+cm_0278,Will audited accounts be available for the public to read?,en,citizen,C3,NONE,,organic,False,train
+cm_0279,"Timely returns matter to investors and lenders. Charging by the day for lateness, with a ceiling of five lakh, is an effective and proportionate nudge.",en,citizen,C1,FAVOR,K8,heavy,False,test
+cm_0280,I support Clause 4. A fixed seven day timeline for incorporation will make it much easier to start a business in India. Deemed approval will end unnecessary delays and bring accountability to the registration process,en,citizen,C4,FAVOR,K5,verbatim,False,dev
+cm_0281,Is the thirty days counted from acquisition of the holding or from the company becoming aware of it?,en,legal,C2,NONE,,organic,False,train
+cm_0282,"Beneficial ownership information is sensitive. Access should be restricted to enforcement agencies, because a public register would expose families to extortion and unwanted attention.",en,citizen,C2,AGAINST,K2,heavy,False,train
+cm_0283,I support Clause 5. Independent directors should be liable only when they knew of a violation or failed to act diligently. Protecting honest directors will encourage experienced professionals to join corporate boards.,en,citizen,C5,FAVOR,K6,light,False,test
+cm_0284,Evidence from other regulatory regimes suggests escalating penalties improve timeliness more than lump sums. I support Clause 1 as drafted.,en,academic,C1,FAVOR,,organic,False,dev
+cm_0285,"Transparency starts with filings arriving on time, and this clause pushes in that direction.",en,citizen,C1,FAVOR,,organic,False,dev
+cm_0286,The clause duplicates reporting already made to other regulators. Another register adds cost without added transparency.,en,legal,C2,AGAINST,,organic,False,test
+cm_0287,clause 6 should not discontinue physical filing. many companies in rural and semi urban areas do not have reliable internet access or digital skills. please keep the option of filing on paper at registrar offices.,en,citizen,C6,AGAINST,K4,verbatim,False,dev
+cm_0288,"A daily charge that can reach five lakh is far too harsh for small businesses. Most late returns come from honest confusion or a slow portal, so first offences should be forgiven and the rate lowered.",en,citizen,C1,AGAINST,K3,heavy,False,dev
+cm_0289,Could the Ministry explain how the register will be searchable? Format and bulk access matter a great deal for research use.,en,academic,C2,NONE,,organic,False,test
+cm_0290,"Independent directors are paid to watch. If they do not know about fraud, they were not watching, and they should not escape.",en,citizen,C5,AGAINST,,organic,False,train
+cm_0291,i strongly oppose clause 3. mandatory audits for every small company will impose a heavy financial burden on honest entrepreneurs. the government should retain the small company exemption and support small businesses instead of burdening them.,en,citizen,C3,AGAINST,K1,verbatim,False,train
+cm_0292,The explanatory memorandum does not cite the international standard being followed. A reference would be helpful.,en,academic,C2,NONE,,organic,False,dev
+cm_0293,Does the electronic requirement also apply to inspecting documents at the Registrar's office?,en,citizen,C6,NONE,,organic,False,test
+cm_0294,I would like to know how the identity data will be stored and for how long.,en,citizen,C2,NONE,,organic,False,test
+cm_0295,I support Clause 2 on beneficial ownership.  A public register of people who hold ten percent or more of a company will expose shell companies and corruption.  Transparency about who owns companies is essential for public trust.,en,industry,C2,FAVOR,K7,verbatim,False,test
+cm_0296,Public entries without a correction or redaction procedure will carry errors forever. I cannot support the clause in this form.,en,legal,C2,AGAINST,,organic,False,test
+cm_0297,Uniform rules are simpler to enforce than a patchwork of thresholds. This clause is administratively cleaner.,en,academic,C3,FAVOR,,organic,False,dev
+cm_0298,I support the clause. Honest firms lose nothing by being audited.,en,citizen,C3,FAVOR,,organic,False,train
+cm_0299,"Setting a deadline of one week for registering a company, and treating silence as approval, is the kind of reform that helps first-time founders. Officials will finally be answerable for how long they take.",en,citizen,C4,FAVOR,K5,heavy,False,dev
+cm_0300,"Knowing the real owners behind companies is the best defence against money laundering. An open register lets journalists and citizens check, which is why this clause deserves backing.",en,citizen,C2,FAVOR,K7,heavy,False,test
+cm_0301,What uptime does the Ministry currently achieve on the portal during peak filing weeks?,en,academic,C6,NONE,,organic,False,test
+cm_0302,Electronic filing is a prerequisite for risk-based supervision. This is a necessary foundation.,en,academic,C6,FAVOR,,organic,False,train
+cm_0303,Voters deserve to know who controls companies that win public contracts. Strongly in favour.,en,citizen,C2,FAVOR,,organic,False,train
+cm_0304,Overbroad director liability reduces the supply of qualified independents. A knowledge-based test is a balanced standard.,en,academic,C5,FAVOR,,organic,False,dev
+cm_0305,Discontinuing physical filing removes a backstop. I would oppose the clause until a measured uptime target is met.,en,academic,C6,AGAINST,,organic,False,dev
+cm_0306,"It will create better records and, over time, better access to credit for small businesses. I am for it.",en,industry,C3,FAVOR,,organic,False,test
+cm_0307,I strongly oppose Clause 3. Mandatory audits for every small company will impose a heavy financial burden on honest entrepreneurs. The government should retain the small company exemption and support small businesses instead of burdening them,en,citizen,C3,AGAINST,K1,verbatim,False,train
+cm_0308,I support Clause 2 on beneficial ownership. A public register of people who hold ten percent or more of a company will expose shell companies and corruption. Transparency about company ownership is essential for public trust.,en,citizen,C2,FAVOR,K7,light,False,test
+cm_0309,Is there data on how many prosecutions of non-executive directors have actually succeeded in the last decade?,en,academic,C5,NONE,,organic,False,test
+cm_0310,Thirty days is too short for a holding structure with several layers across jurisdictions. Compliance cost will be heavy.,en,industry,C2,AGAINST,,organic,False,dev
+cm_0311,I support this clause. Ownership should not be a secret when the company deals with the public.,en,citizen,C2,FAVOR,,organic,False,train
+cm_0312,"Fault-based responsibility is the fair rule. If an independent director neither knew nor consented to a breach, and acted with care, there is no justice in penalising them.",en,citizen,C5,FAVOR,K6,heavy,False,test
+cm_0313,I strongly oppose Clause 3. Compulsory audits for every small company will impose a heavy financial burden on honest entrepreneurs. The government should retain the small company exemption and support small businesses instead of burdening them.,en,industry,C3,AGAINST,K1,light,False,train
+cm_0314,"Fixed fees create weak deterrence because the marginal cost of further delay is zero. A daily, capped fee aligns incentives better and is easy to administer.",en,academic,C1,FAVOR,,organic,False,train
+cm_0315,"I back the seven-day rule. Entrepreneurs lose momentum and money while waiting for approvals, and automatic approval after the period removes that uncertainty.",en,citizen,C4,FAVOR,K5,heavy,False,dev
+cm_0316,I firmly oppose Clause 3. Mandatory audits for every small company will impose a heavy financial burden on honest business owners. The government should retain the exemption for small companies and support small businesses instead of burdening them.,en,industry,C3,AGAINST,K1,light,False,train
+cm_0317,Audit fees will become a fixed tax on being small. I do not support it.,en,industry,C3,AGAINST,,organic,False,dev
+cm_0318,"The test is the right one in principle, and I would only suggest that the phrase attributable through board processes be explained in a rule.",en,legal,C5,FAVOR,,organic,False,test
+cm_0319,"Compliance costs fall disproportionately on the smallest firms, and the benefit is unproven. This could push entrepreneurs back into the informal sector.",en,academic,C3,AGAINST,,organic,False,train
+cm_0320,I strongly oppose Clause 3. Mandatory audits for every small company will impose a heavy financial burden on honest entrepreneurs. The government should retain the small company exemption and support small businesses instead of burdening them.,en,citizen,C3,AGAINST,K1,verbatim,False,train
+cm_0321,I support Clause 2 on beneficial ownership. A public register of people who own ten percent or more of a company will expose shell firms and corruption. Transparency about who owns companies is essential to public trust.,en,industry,C2,FAVOR,K7,light,False,test
+cm_0322,Public beneficial ownership registers are now a recognised anti-corruption tool. A thirty-day window and public access make this clause better than most comparable provisions.,en,academic,C2,FAVOR,,organic,False,test
+cm_0323,"Is the audit required even in the first year of incorporation, before any accounts exist?",en,citizen,C3,NONE,,organic,False,train
+cm_0324,As a journalist's reader I want this. Stories about hidden owners usually stall because the register is closed.,en,citizen,C2,FAVOR,,organic,False,train
+cm_0325,The proposal lacks empirical backing in the Indian context and may weaken deterrence. Premature.,en,academic,C5,AGAINST,,organic,False,test
+cm_0326,Provisions of this kind have in other jurisdictions been read down by courts to allow almost any defence. I oppose enacting it.,en,legal,C5,AGAINST,,organic,False,train
+cm_0327,Will the portal expose an API so that filed data can be downloaded in bulk?,en,academic,C6,NONE,,organic,False,train
+cm_0328,The words failed to act diligently are vague and subjective. The clause both protects and exposes directors unpredictably.,en,legal,C5,AGAINST,,organic,False,train
+cm_0329,I fully support Clause 4. A fixed seven day timeline for company incorporation will make it much easier to start a business in India. Deemed approval will end unnecessary delay and bring accountability to the registration process.,en,industry,C4,FAVOR,K5,light,False,dev
+cm_0330,Anyone who wants to deal with a company ought to be able to find out who controls it. I welcome the ten percent public register for that reason.,en,citizen,C2,FAVOR,K7,heavy,False,test
+cm_0331,I tried to register a company last year and it took more than a month of back and forth. A fixed deadline is a relief.,en,citizen,C4,FAVOR,,organic,False,test
+cm_0332,I strongly oppose Clause 3. Mandatory audits for every small company will impose a heavy financial burden on honest entrepreneurs. The government should retain the small company exemption and support small businesses instead of burdening them. ,en,industry,C3,AGAINST,K1,verbatim,False,train
+cm_0333,The deemed approval of a name that is identical to an existing company would create trademark and passing-off conflicts. The clause should exclude names.,en,legal,C4,AGAINST,,organic,False,dev
+cm_0334,I support Clause 2 on beneficial ownership. A public register of people who hold ten percent or more of a company will expose shell companies and corruption. Transparency about who owns companies is essential for public trust,en,citizen,C2,FAVOR,K7,verbatim,False,test
+cm_0335,"Without data on current default rates and their causes, raising penalties is premature. I would oppose this clause until such evidence is published.",en,academic,C1,AGAINST,,organic,False,train
+cm_0336,I support the penalty structure in Clause 1. Companies that delay their annual filings should pay for each day of delay. The cap of Rs five lakh keeps it fair and will improve timely compliance across the corporate sector.,en,citizen,C1,FAVOR,K8,light,False,test
+cm_0337,"Clause 3 treats a corner shop company the same as a large corporation. That is neither fair nor sensible; entrepreneurs at the bottom of the ladder need help, not another bill.",en,citizen,C3,AGAINST,K1,heavy,False,train
+cm_0338,I support the penalty structure in Clause 1. Companies that are late with their annual filings should pay for every day of delay. The cap of five lakh rupees keeps it fair and will improve timely compliance across the corporate sector.,en,industry,C1,FAVOR,K8,light,False,test
+cm_0339,Removing the exemption without any transition period is unfair to companies that organised their affairs on the existing law.,en,legal,C3,AGAINST,,organic,False,dev
+cm_0340,Will the government prescribe a maximum fee for these audits?,en,citizen,C3,NONE,,organic,False,test
+cm_0341,It is about time. Our customers abroad cannot believe we still courier forms to a government office.,en,industry,C6,FAVOR,,organic,False,train
+cm_0342,The qualifier complete and not decided is a careful drafting choice that prevents abuse of the deemed-approval rule.,en,academic,C4,FAVOR,,organic,False,train
+cm_0343,Startups at the idea stage with zero revenue will be forced to pay for an audit of nothing. That is absurd.,en,industry,C3,AGAINST,,organic,False,train
+cm_0344,"Ease of doing business begins with quick incorporation. A statutory limit on processing time, with deemed approval if it is breached, is a welcome and practical change.",en,industry,C4,FAVOR,K5,heavy,False,dev
+cm_0345,I support the penalty structure in Clause 1. Companies that delay their annual filings should pay for every day of delay. The cap of five lakh rupees keeps it fair and will improve on-time compliance across the corporate sector.,en,industry,C1,FAVOR,K8,light,False,test
+cm_0346,It is reasonable to hold non-executive directors accountable only for what they knew or ought to have caught. Blanket liability scares capable people away from boards.,en,citizen,C5,FAVOR,K6,heavy,False,test
+cm_0347,I support protecting honest directors. Real culprits are the people who ran the company.,en,citizen,C5,FAVOR,,organic,False,dev
+cm_0348,clause 2 is a threat to the privacy of investors. publishing the names and holdings of ten percent shareholders in an open public register invites harassment and fraud. disclosure should go only to regulators and not to the public.,en,citizen,C2,AGAINST,K2,verbatim,False,train
+cm_0349,The proposed penalty of five hundred rupees a day under Clause 1 is too high and unfair to small companies. Delay in filing is usually due to genuine difficulty and not intent. Please lower the penalty and provide relief for first time defaulters.,en,industry,C1,AGAINST,K3,light,False,dev
+cm_0350,the proposed penalty of five hundred rupees per day under clause 1 is excessive and unfair to small companies. a delay in filing is usually due to genuine difficulty and not intent. please reduce the penalty and provide relief for first time defaulters.,en,citizen,C1,AGAINST,K3,verbatim,False,dev
+cm_0351,The clause says practising chartered accountant. Are cost accountants and company secretaries excluded?,en,legal,C3,NONE,,organic,False,dev
+cm_0352,"The knowledge standard shifts the burden of proof to the regulator, which has limited investigative capacity. I do not support it.",en,legal,C5,AGAINST,,organic,False,dev
+cm_0353,"Unaudited accounts are just claims. Every company that takes public money or credit should be audited, however small.",en,citizen,C3,FAVOR,,organic,False,train
+cm_0354,Shareholders lose their savings while directors walk away. I oppose this clause.,en,citizen,C5,AGAINST,,organic,False,test
+cm_0355,"Putting shareholder identities on a website anyone can browse is risky. People with a sizeable stake could be targeted by criminals, so the information should be kept with the authorities.",en,citizen,C2,AGAINST,K2,heavy,False,train
+cm_0356,Young entrepreneurs will gain a lot from this. Please keep it.,en,citizen,C4,FAVOR,,organic,False,test
+cm_0357,"Entering particulars in a register inspectable by the public gives the clause teeth, and I commend the drafters for including it.",en,legal,C2,FAVOR,,organic,False,train
+cm_0358,Few experienced professionals want to risk their reputations for decisions they did not make. Limiting liability to knowledge or lack of diligence makes board service viable again.,en,citizen,C5,FAVOR,K6,heavy,False,test
+cm_0359,Does this clause also cover conversion of a partnership firm into a company?,en,industry,C4,NONE,,organic,False,train
+cm_0360,The proposed penalty of five hundred rupees per day under Clause 1 is excessive and unfair to small companies. A delay in filing is usually due to genuine difficulty and not intent. Please reduce the penalty and provide relief for first time defaulters.,en,citizen,C1,AGAINST,K3,verbatim,False,dev

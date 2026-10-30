@@ -1,0 +1,80 @@
+{
+  "benchmark": "Public Consultation Duplicate & Campaign Detection",
+  "dataset": "data/synthetic/comments.csv (Companies Bill 2026 testbed)",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "seed": 7,
+  "n_comments": 360,
+  "split_counts": {
+    "train": 144,
+    "dev": 111,
+    "test": 105
+  },
+  "dev_best_thresholds": {
+    "minhash": 0.25,
+    "sbert_cc": 0.54,
+    "sbert_avg": 0.48
+  },
+  "test_metrics": {
+    "exact": {
+      "pair_P": 1.0,
+      "pair_R": 0.0952380952,
+      "pair_F1": 0.1739130435,
+      "ARI": 0.1655405405,
+      "flag_P": 1.0,
+      "flag_R": 0.3333333333,
+      "flag_F1": 0.5,
+      "organic_false_flag": 0.0,
+      "recov_verbatim": 1.0,
+      "recov_light": 0.0,
+      "recov_heavy": 0.0,
+      "seconds": 0.0006356,
+      "n_clusters": 93.0
+    },
+    "minhash": {
+      "pair_P": 1.0,
+      "pair_R": 0.4285714286,
+      "pair_F1": 0.6,
+      "ARI": 0.5856573705,
+      "flag_P": 1.0,
+      "flag_R": 0.6666666667,
+      "flag_F1": 0.8,
+      "organic_false_flag": 0.0,
+      "recov_verbatim": 1.0,
+      "recov_light": 1.0,
+      "recov_heavy": 0.0,
+      "seconds": 0.0639918,
+      "n_clusters": 78.0
+    },
+    "sbert_cc": {
+      "pair_P": 0.582205029,
+      "pair_R": 0.9555555556,
+      "pair_F1": 0.7235576923,
+      "ARI": 0.7022060654,
+      "flag_P": 0.7719298246,
+      "flag_R": 0.9777777778,
+      "flag_F1": 0.862745098,
+      "organic_false_flag": 0.2166666667,
+      "recov_verbatim": 1.0,
+      "recov_light": 1.0,
+      "recov_heavy": 0.9333333333,
+      "seconds": 0.0005838,
+      "n_clusters": 48.0
+    },
+    "sbert_avg": {
+      "pair_P": 0.8048128342,
+      "pair_R": 0.9555555556,
+      "pair_F1": 0.8737300435,
+      "ARI": 0.8652929967,
+      "flag_P": 0.8333333333,
+      "flag_R": 1.0,
+      "flag_F1": 0.9090909091,
+      "organic_false_flag": 0.15,
+      "recov_verbatim": 1.0,
+      "recov_light": 1.0,
+      "recov_heavy": 0.9333333333,
+      "seconds": 0.0013128,
+      "n_clusters": 49.0
+    }
+  },
+  "timestamp": "2026-10-27 14:25:45"
+}

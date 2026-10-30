@@ -1,0 +1,20 @@
+# VS Code / app environment (CPU is enough). Python 3.10+.
+# Versions deliberately unpinned until the first working install; pin them in
+# the first session that gets everything running, then record in docs/PROGRESS.md.
+pandas
+numpy
+scikit-learn
+torch
+transformers
+sentence-transformers
+datasets
+evaluate
+datasketch
+fastapi
+uvicorn
+streamlit
+plotly
+python-dotenv
+pytest
+httpx
+anthropic

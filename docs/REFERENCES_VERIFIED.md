@@ -1,0 +1,90 @@
+# Verified references (APA 7). Status as of 2026-10-23.
+Verification = I opened the publisher/arXiv/ACL page, or Crossref matched the exact title (your refs_apa.md run). Italics use *...*; in Word, italicise the journal/proceedings/book names and volumes.
+
+## Base papers (read in full)
+- Mohammad, S., Kiritchenko, S., Sobhani, P., Zhu, X., & Cherry, C. (2016). SemEval-2016 Task 6: Detecting stance in tweets. *Proceedings of the 10th International Workshop on Semantic Evaluation (SemEval-2016)*, 31–41. Association for Computational Linguistics. https://doi.org/10.18653/v1/S16-1003
+- Reimers, N., & Gurevych, I. (2019). Sentence-BERT: Sentence embeddings using Siamese BERT-networks. *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)*, 3982–3992. https://doi.org/10.18653/v1/D19-1410
+- Lee, K., Ippolito, D., Nystrom, A., Zhang, C., Eck, D., Callison-Burch, C., & Carlini, N. (2022). Deduplicating training data makes language models better. *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, 8424–8445. https://doi.org/10.18653/v1/2022.acl-long.577
+
+## Stance detection
+- Mohammad, S., Kiritchenko, S., Sobhani, P., Zhu, X., & Cherry, C. (2016). A dataset for detecting stance in tweets. *Proceedings of the Language Resources and Evaluation Conference*, 3945–3952. https://doi.org/10.63317/4do4wcj98df7  [CHECK: this unusual DOI came from Crossref; confirm it opens. This is the LREC 2016 paper.]
+- Küçük, D., & Can, F. (2020). Stance detection: A survey. *ACM Computing Surveys, 53*(1), 1–37. https://doi.org/10.1145/3369026  [CHECK: Crossref matched the DOI but returned a shortened title; confirm the title on the DOI page.]
+- ALDayel, A., & Magdy, W. (2021). Stance detection on social media: State of the art and trends. *Information Processing & Management, 58*(4), Article 102597. https://doi.org/10.1016/j.ipm.2021.102597
+- Augenstein, I., Rocktäschel, T., Vlachos, A., & Bontcheva, K. (2016). Stance detection with bidirectional conditional encoding. *Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing*, 876–885. https://doi.org/10.18653/v1/D16-1084
+- Sobhani, P., Inkpen, D., & Zhu, X. (2017). A dataset for multi-target stance detection. *Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers*, 551–557. https://doi.org/10.18653/v1/E17-2088
+- Allaway, E., & McKeown, K. (2020). Zero-shot stance detection: A dataset and model using generalized topic representations. *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 8913–8931. https://doi.org/10.18653/v1/2020.emnlp-main.717
+- Schiller, B., Daxenberger, J., & Gurevych, I. (2021). Stance detection benchmark: How robust is your stance detection? *KI – Künstliche Intelligenz, 35*(3–4), 329–341. https://doi.org/10.1007/s13218-021-00714-w
+- Hardalov, M., Arora, A., Nakov, P., & Augenstein, I. (2022). A survey on stance detection for mis- and disinformation identification. *Findings of the Association for Computational Linguistics: NAACL 2022*, 1259–1277. https://doi.org/10.18653/v1/2022.findings-naacl.94
+- Li, Y., & Caragea, C. (2019). Multi-task stance detection with sentiment and stance lexicons. *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)*, 6298–6304. https://doi.org/10.18653/v1/D19-1657
+- Barbieri, F., Camacho-Collados, J., Espinosa Anke, L., & Neves, L. (2020). TweetEval: Unified benchmark and comparative evaluation for tweet classification. *Findings of the Association for Computational Linguistics: EMNLP 2020*, 1644–1650. https://doi.org/10.18653/v1/2020.findings-emnlp.148
+- Nguyen, D. Q., Vu, T., & Nguyen, A. T. (2020). BERTweet: A pre-trained language model for English tweets. *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations*, 9–14. https://doi.org/10.18653/v1/2020.emnlp-demos.2
+
+## Duplicate and near-duplicate detection, clustering
+- Broder, A. Z. (1997). On the resemblance and containment of documents. *Proceedings. Compression and Complexity of SEQUENCES 1997*, 21–29. https://doi.org/10.1109/SEQUEN.1997.666900
+- Broder, A. Z., Glassman, S. C., Manasse, M. S., & Zweig, G. (1997). Syntactic clustering of the Web. *Computer Networks and ISDN Systems, 29*(8–13), 1157–1166. https://doi.org/10.1016/S0169-7552(97)00031-7
+- Charikar, M. S. (2002). Similarity estimation techniques from rounding algorithms. *Proceedings of the Thirty-Fourth Annual ACM Symposium on Theory of Computing*, 380–388. https://doi.org/10.1145/509907.509965
+- Manku, G. S., Jain, A., & Das Sarma, A. (2007). Detecting near-duplicates for web crawling. *Proceedings of the 16th International Conference on World Wide Web*, 141–150. https://doi.org/10.1145/1242572.1242592
+- Henzinger, M. (2006). Finding near-duplicate web pages: A large-scale evaluation of algorithms. *Proceedings of the 29th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval*, 284–291. https://doi.org/10.1145/1148170.1148222  [CHECK title on the DOI page]
+- Yang, H., Callan, J., & Shulman, S. (2006). Next steps in near-duplicate detection for eRulemaking. *Proceedings of the 2006 International Conference on Digital Government Research*, 239–248. https://doi.org/10.1145/1146598.1146663
+- Hitlin, P., Olmstead, K., & Toor, S. (2017, November 29). *Public comments to the Federal Communications Commission about net neutrality contain many inaccuracies and duplicates* (Methodology). Pew Research Center. https://www.pewresearch.org/internet/2017/11/29/net-neutrality-comments-methodology/
+- Rand, W. M. (1971). Objective criteria for the evaluation of clustering methods. *Journal of the American Statistical Association, 66*(336), 846–850. https://doi.org/10.1080/01621459.1971.10482356
+
+## Sentence embeddings and transformer models
+- Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of deep bidirectional transformers for language understanding. *Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1*, 4171–4186. https://doi.org/10.18653/v1/N19-1423
+- Cer, D., Diab, M., Agirre, E., Lopez-Gazpio, I., & Specia, L. (2017). SemEval-2017 Task 1: Semantic textual similarity multilingual and crosslingual focused evaluation. *Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017)*, 1–14. https://doi.org/10.18653/v1/S17-2001
+- Conneau, A., Kiela, D., Schwenk, H., Barrault, L., & Bordes, A. (2017). Supervised learning of universal sentence representations from natural language inference data. *Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing*, 670–680. https://doi.org/10.18653/v1/D17-1070
+- Cer, D., Yang, Y., Kong, S., Hua, N., Limtiaco, N., St. John, R., Constant, N., Guajardo-Cespedes, M., Yuan, S., Tar, C., Sung, Y.-H., Strope, B., & Kurzweil, R. (2018). *Universal sentence encoder* (arXiv:1803.11175). arXiv. https://arxiv.org/abs/1803.11175
+- Gao, T., Yao, X., & Chen, D. (2021). SimCSE: Simple contrastive learning of sentence embeddings. *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing*, 6894–6910. https://doi.org/10.18653/v1/2021.emnlp-main.552
+- Muennighoff, N., Tazi, N., Magne, L., & Reimers, N. (2023). MTEB: Massive text embedding benchmark. *Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics*, 2014–2037. https://doi.org/10.18653/v1/2023.eacl-main.148
+- Reimers, N., & Gurevych, I. (2020). Making monolingual sentence embeddings multilingual using knowledge distillation. *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 4512–4525. https://doi.org/10.18653/v1/2020.emnlp-main.365
+- Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., & Stoyanov, V. (2019). *RoBERTa: A robustly optimized BERT pretraining approach* (arXiv:1907.11692). arXiv. https://arxiv.org/abs/1907.11692
+- Sanh, V., Debut, L., Chaumond, J., & Wolf, T. (2019). *DistilBERT, a distilled version of BERT: Smaller, faster, cheaper and lighter* (arXiv:1910.01108). arXiv. https://arxiv.org/abs/1910.01108
+- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). *Attention is all you need* (arXiv:1706.03762). arXiv. https://arxiv.org/abs/1706.03762
+- Wolf, T., Debut, L., Sanh, V., Chaumond, J., Delangue, C., Moi, A., Cistac, P., Rault, T., Louf, R., Funtowicz, M., Davison, J., Shleifer, S., von Platen, P., Ma, C., Jernite, Y., Plu, J., Xu, C., Le Scao, T., Gugger, S., ... Rush, A. M. (2020). Transformers: State-of-the-art natural language processing. *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations*, 38–45. https://doi.org/10.18653/v1/2020.emnlp-demos.6
+
+## Fine-tuning and domain adaptation
+- Howard, J., & Ruder, S. (2018). Universal language model fine-tuning for text classification. *Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, 328–339. https://doi.org/10.18653/v1/P18-1031
+- Gururangan, S., Marasović, A., Swayamdipta, S., Lo, K., Beltagy, I., Downey, D., & Smith, N. A. (2020). Don't stop pretraining: Adapt language models to domains and tasks. *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*, 8342–8360. https://doi.org/10.18653/v1/2020.acl-main.740
+- Sun, C., Qiu, X., Xu, Y., & Huang, X. (2019). How to fine-tune BERT for text classification? In *Chinese Computational Linguistics* (Lecture Notes in Computer Science, Vol. 11856, pp. 194–206). Springer. https://doi.org/10.1007/978-3-030-32381-3_16
+- Mosbach, M., Andriushchenko, M., & Klakow, D. (2020). *On the stability of fine-tuning BERT: Misconceptions, explanations, and strong baselines* (arXiv:2006.04884). arXiv. https://arxiv.org/abs/2006.04884
+- Loshchilov, I., & Hutter, F. (2017). *Decoupled weight decay regularization* (arXiv:1711.05101). arXiv. https://arxiv.org/abs/1711.05101
+- Chalkidis, I., Fergadiotis, M., Malakasiotis, P., Aletras, N., & Androutsopoulos, I. (2020). LEGAL-BERT: The Muppets straight out of law school. *Findings of the Association for Computational Linguistics: EMNLP 2020*, 2898–2904. https://doi.org/10.18653/v1/2020.findings-emnlp.261
+- Chalkidis, I., Jana, A., Hartung, D., Bommarito, M., Androutsopoulos, I., Katz, D., & Aletras, N. (2022). LexGLUE: A benchmark dataset for legal language understanding in English. *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, 4310–4330. https://doi.org/10.18653/v1/2022.acl-long.297
+- Zheng, L., Guha, N., Anderson, B. R., Henderson, P., & Ho, D. E. (2021). *When does pretraining help? Assessing self-supervised learning for law and the CaseHOLD dataset* (arXiv:2104.08671). arXiv. https://arxiv.org/abs/2104.08671
+
+## Summarisation
+- Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., Stoyanov, V., & Zettlemoyer, L. (2020). BART: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*, 7871–7880. https://doi.org/10.18653/v1/2020.acl-main.703
+- Liu, Y., & Lapata, M. (2019). Text summarization with pretrained encoders. *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)*, 3728–3738. https://doi.org/10.18653/v1/D19-1387
+- See, A., Liu, P. J., & Manning, C. D. (2017). Get to the point: Summarization with pointer-generator networks. *Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, 1073–1083. https://doi.org/10.18653/v1/P17-1099
+- Kryscinski, W., McCann, B., Xiong, C., & Socher, R. (2020). Evaluating the factual consistency of abstractive text summarization. *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 9332–9346. https://doi.org/10.18653/v1/2020.emnlp-main.750
+- Maynez, J., Narayan, S., Bohnet, B., & McDonald, R. (2020). On faithfulness and factuality in abstractive summarization. *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*, 1906–1919. https://doi.org/10.18653/v1/2020.acl-main.173
+- Lin, C.-Y. (2004). ROUGE: A package for automatic evaluation of summaries. *Text Summarization Branches Out*, 74–81. Association for Computational Linguistics. https://aclanthology.org/W04-1013/
+
+## AI-generated text and synthetic data
+- Guo, B., Zhang, X., Wang, Z., Jiang, M., Nie, J., Ding, Y., Yue, J., & Wu, Y. (2023). *How close is ChatGPT to human experts? Comparison corpus, evaluation, and detection* (arXiv:2301.07597). arXiv. https://arxiv.org/abs/2301.07597
+- Mitchell, E., Lee, Y., Khazatsky, A., Manning, C. D., & Finn, C. (2023). *DetectGPT: Zero-shot machine-generated text detection using probability curvature* (arXiv:2301.11305). arXiv. https://arxiv.org/abs/2301.11305
+- Sadasivan, V. S., Kumar, A., Balasubramanian, S., Wang, W., & Feizi, S. (2023). *Can AI-generated text be reliably detected?* (arXiv:2303.11156). arXiv. https://arxiv.org/abs/2303.11156
+- Liang, W., Yuksekgonul, M., Mao, Y., Wu, E., & Zou, J. (2023). GPT detectors are biased against non-native English writers. *Patterns, 4*(7), Article 100779. https://doi.org/10.1016/j.patter.2023.100779
+- Gilardi, F., Alizadeh, M., & Kubli, M. (2023). ChatGPT outperforms crowd workers for text-annotation tasks. *Proceedings of the National Academy of Sciences, 120*(30). https://doi.org/10.1073/pnas.2305016120
+- Ziems, C., Held, W., Shaikh, O., Chen, J., Zhang, Z., & Yang, D. (2024). Can large language models transform computational social science? *Computational Linguistics, 50*(1), 237–291. https://doi.org/10.1162/coli_a_00502
+- Li, Z., Zhu, H., Lu, Z., & Yin, M. (2023). Synthetic data generation with large language models for text classification: Potential and limitations. *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*, 10443–10461. https://doi.org/10.18653/v1/2023.emnlp-main.647
+- Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y. (2024). AI models collapse when trained on recursively generated data. *Nature, 631*(8022), 755–759. https://doi.org/10.1038/s41586-024-07566-y
+- Wang, Y., Kordi, Y., Mishra, S., Liu, A., Smith, N. A., Khashabi, D., & Hajishirzi, H. (2023). Self-Instruct: Aligning language models with self-generated instructions. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, 13484–13508. https://doi.org/10.18653/v1/2023.acl-long.754
+- Veselovsky, V., Horta Ribeiro, M., & West, R. (2023). *Artificial artificial artificial intelligence: Crowd workers widely use large language models for text production tasks* (arXiv:2306.07899). arXiv. https://arxiv.org/abs/2306.07899
+
+## Evaluation and software
+- Cohen, J. (1960). A coefficient of agreement for nominal scales. *Educational and Psychological Measurement, 20*(1), 37–46. https://doi.org/10.1177/001316446002000104
+- Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical data. *Biometrics, 33*(1), 159–174. https://doi.org/10.2307/2529310
+- Sokolova, M., & Lapalme, G. (2009). A systematic analysis of performance measures for classification tasks. *Information Processing & Management, 45*(4), 427–437. https://doi.org/10.1016/j.ipm.2009.03.002
+- Dror, R., Baumer, G., Shlomov, S., & Reichart, R. (2018). The hitchhiker's guide to testing statistical significance in natural language processing. *Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, 1383–1392. https://doi.org/10.18653/v1/P18-1128
+- Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, É. (2011). Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research, 12*, 2825–2830. https://jmlr.org/papers/v12/pedregosa11a.html
+- Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., Killeen, T., Lin, Z., Gimelshein, N., Antiga, L., Desmaison, A., Köpf, A., Yang, E., DeVito, Z., Raison, M., Tejani, A., Chilamkurthy, S., Steiner, B., Fang, L., ... Chintala, S. (2019). *PyTorch: An imperative style, high-performance deep learning library* (arXiv:1912.01703). arXiv. https://arxiv.org/abs/1912.01703
+
+## Rejected (Crossref matched the wrong paper; do NOT use)
+Pascucci 2001; Haghani et al. 2009; Bourel et al. 2023; Deepthi & Sowjanya 2021; Zhang et al. 2022 (AAAI); Aini et al. 2025; Mineault 2025; Reddy 2023; Sahu & Sanjeevi 2021; Liu thesis; Salek Faramarzi et al. 2023.
+
+## Still missing (search yourself on Google Scholar, ~7 needed)
+- Ghosh et al. (2019) stance detection comparative study (CLEF) — not found in Crossref.
+- Glandt et al. (2021) stance detection in COVID-19 tweets — I could not confirm its ACL ID; look it up.
+- Indyk & Motwani (1998) LSH; Gionis et al. (1999) hashing; Hubert & Arabie (1985) Comparing partitions — standard, find the DOIs.
+- E-rulemaking / mass-comment studies (Yang & Callan 2005; Balla et al.), India e-governance / eConsultation sources, MCA21 eConsultation page; plus the 7 references already in your deck.

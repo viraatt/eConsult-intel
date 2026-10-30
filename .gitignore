@@ -1,0 +1,35 @@
+# Environments and secrets
+.env
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Jupyter / Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Raw large datasets and models
+data/raw/*
+!data/raw/.gitkeep
+models/*
+!models/.gitkeep
+*.pt
+*.safetensors
+*.bin
+*.onnx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Research paper manuscripts and drafts
+paper/
+docs/PAPER_HANDOFF.md
+*.docx
+*.pdf

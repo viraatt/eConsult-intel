@@ -1,0 +1,8 @@
+# Colab training environment. Colab already ships torch; install only extras.
+transformers
+datasets
+evaluate
+accelerate
+scikit-learn
+sentence-transformers
+huggingface_hub
